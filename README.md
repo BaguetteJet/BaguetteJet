@@ -3,6 +3,7 @@
 `Studing Artificial Intelligence and Machine Learning in university`
 
 <img align="right" width=310px alt="Goldfish" src="https://i.imgur.com/Fzw6yDs.gif"/>
+
 ###### Most experienced with:
   
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-<3-red.svg?logo=java-14)](https://www.java.com/en/) [![Python](https://img.shields.io/badge/Python-:D-blue?logo=Python)](https://www.python.org/)
